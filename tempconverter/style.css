@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+   
+    background-position: center;
+    background-size: cover;
+}
+.temp{
+    background-image: url(c.jpg)
+}
+.form{
+    border: 2px solid black;
+    box-shadow: #ffffff;
+    background: linear-gradient(45deg,#f7fbfdb4,#a7edfae7); 
+    display: inline-block;box-shadow: 3px 8px 22px rgba(94, 28,68,0.15);
+     padding: 10px 20px;
+     box-sizing: border-box; 
+     margin-bottom: 180px;
+     margin-top: 40px;
+     margin-left: 280px;
+     margin-right: 280px ; 
+     font-size: 19px ;
+    
+}
+.form h1{
+    style="Font-size:35px"
+   
+}
+
+.c{
+    font-size:18px ;
+   
+   
+    
+}
+.button{
+    margin: 40px auto;
+    display: inline-block;
+    padding-top: 80px;
+    margin-right: 40px;
+    margin-left: 50px;
+    background: linear-gradient(45deg,#f5f8f8,#13a390);
+    border-radius: 6px;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    box-shadow: 3px 8px 22px rgba(94, 28,68,0.15);
+}
